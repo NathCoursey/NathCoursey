@@ -3,4 +3,4 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 <h3 align="center">A Software engineer based in 🍃NC</h3>
-![Nath's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathCoursey)
+
