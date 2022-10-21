@@ -4,13 +4,16 @@
 </div>
 <h3 align="center">A latina software engineer👩‍💻 based in 🍃NC</h3>
 
+
+# About Me
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/ErZ8hv5eO92JW/giphy.gif">
-###    Current Activity
+
+### Current Activity
 - 🧚‍♀️Revising and polishing my projects
 - 🐉Working on building my personal portfolio (coming soon)
 - 🧜‍♀️Learning data structures and algorithms
 
-###     Hobbies
+### Hobbies
 - 🎮Videogames
 - 🖥️Animes
 - 🍱Cooking
