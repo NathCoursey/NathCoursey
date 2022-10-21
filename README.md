@@ -21,8 +21,8 @@
 ## Contact Me
 <a href="https://www.linkedin.com/in/nathaliecoursey/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="ncoursey314@gmail.com">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ncoursey314@gmail.com">
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   
 
 <p align="center" >  
