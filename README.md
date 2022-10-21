@@ -4,3 +4,8 @@
 </div>
 <h3 align="center">A Software engineer based in 🍃NC</h3>
 
+### Current Activity
+- 👩‍💻Revising and polishing my projects
+- 🐉Working on building my personal portfolio (coming soon)
+- 🧜‍♀️Started with computer science
+
