@@ -19,7 +19,7 @@
 - 🍱Cooking
 
 ## Contact Me
-Feel free to contact anytime for feedback or inquiries!
+Feel free to contact if any questions or feedback!
 <a href="https://www.linkedin.com/in/nathaliecoursey/">
   <img align="left" alt="Linkedin" width="100" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:ncoursey314@gmail.com">
