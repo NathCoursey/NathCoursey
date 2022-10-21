@@ -9,7 +9,8 @@
 - 🐉Working on building my personal portfolio (coming soon)
 - 🧜‍♀️Started with computer science
 
-<p align="center">
-  <a href="https://github.com/NathCoursey"><img src="https://github-readme-stats.vercel.app/api?username=NathCoursey&hide_border=true&show_icons=true" alt="NathCoursey's github stats"></a>
-</p>
-
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=NathCoursey&&show_icons=true&theme=omni"/>
+  </a>
+  </p>
