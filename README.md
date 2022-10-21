@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
-<h3 align="center">A latina software engineer👩‍💻 based in 🍃NC</h3>
+<h3 align="center">A software engineer👩‍💻 based in 🍃NC</h3>
 
 
 ## About Me
