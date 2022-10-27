@@ -22,7 +22,7 @@
 Feel free to contact if any questions or feedback!
 <a href="https://www.linkedin.com/in/nathaliecoursey/">
   <img align="left" alt="Linkedin" width="100" height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="mailto:ncoursey314@gmail.com">
+<a href="mailto:nathaliecoursey.com">
   <img align="left" alt="Gmail" width="100" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://discordapp.com/channels/@me/NathCoursey#1749/">
   <img align="left" alt="Discord" width="100" height="30" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
