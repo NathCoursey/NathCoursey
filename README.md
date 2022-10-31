@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 <h3 align="center">🌸A software engineer👩‍💻 based in NC.🌸</h3>
+<h4 align="center">[My Portfolio](https://nathcoursey.github.io/my-portfolio/)</h4>
 
 
 ## About Me
