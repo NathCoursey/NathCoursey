@@ -10,7 +10,7 @@
 
 ### Current Activity
 - 🧚‍♀️Revising and polishing my projects
-- 🐉Working on my personal portfolio (coming soon)
+- 🐉Planning a new project
 - 🧜‍♀️Learning data structures and algorithms
 
 ### Hobbies
